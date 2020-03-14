@@ -137,6 +137,10 @@
 	align-items: center;
 }
 
+.header__navbar-item:hover .header__navbar-item-link {
+	color: rgba(255, 255, 255, 0.7);
+}
+
 .header__navbar-icon-link:hover,
 .header__navbar-item:hover,
 .header__navbar-item-link:hover {
@@ -251,6 +255,7 @@
 	position: absolute;
 	right: 6px;
 	top: -30px;
+	cursor: pointer;
 }
 
 .header__notify::after {
