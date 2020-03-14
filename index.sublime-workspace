@@ -1,0 +1,612 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"a",
+				"auto\toverflow-x"
+			],
+			[
+				"overf",
+				"overflow-x\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"tr",
+				"translateY()\ttransform"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"b",
+				"bottom\tproperty"
+			],
+			[
+				"c",
+				"center\ttext-align"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"s",
+				"space-around\talign-content"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"border-b",
+				"border-bottom\tproperty"
+			],
+			[
+				"ove",
+				"overflow\tproperty"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"overfl",
+				"overflow-y\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"br",
+				"brightness()\tfilter"
+			],
+			[
+				"cu",
+				"currentColor\tbackground-color"
+			],
+			[
+				"border-t",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"fle",
+				"flex\tdisplay"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"border-bott",
+				"border-bottom\tproperty"
+			],
+			[
+				"FONT-S",
+				"font-size\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"boder-co",
+				"border-color\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"marig",
+				"margin-left\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"bor-b",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"bor-der",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"n",
+				"none\tcursor"
+			],
+			[
+				"boder-top",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"style",
+				"list-style-type\tproperty"
+			],
+			[
+				"aling",
+				"align-items\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"j",
+				"justify-content\tproperty"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"us",
+				"user-select\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"op",
+				"opacity\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"bl",
+				"block\tdisplay"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"sla",
+				"translateY()\ttransform"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"lisst",
+				"list-style\tproperty"
+			],
+			[
+				"box-s",
+				"box-shadow\tproperty"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"box-",
+				"box-sizing\tproperty"
+			],
+			[
+				"dropdown",
+				"dropdown-content"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"my",
+				"myImg"
+			],
+			[
+				"anima",
+				"animation-name\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"animation-",
+				"animation-duration\tproperty"
+			],
+			[
+				"ani",
+				"animation-name\tproperty"
+			],
+			[
+				"slide",
+				"slideIndex"
+			],
+			[
+				"caption",
+				"captionText"
+			],
+			[
+				"m",
+				"mySlide2"
+			],
+			[
+				"myS",
+				"mySlide2"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"serif",
+				"serif\tfont-family"
+			],
+			[
+				"se",
+				"sans-serif\tfont-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/qq/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/excercise/responsive/grid-system/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/excercise/responsive/grid-system/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/excercise/responsive/navbar/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/excercise/responsive/navbar/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/modal/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/modal/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/F8-Shop/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/F8-Shop/assets/css/main.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/F8-Shop/assets/css/base.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/shopee/assets/css/base.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/shopee/assets/css/main.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/shopee/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/Shopee/asset/css/base.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/Shopee/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/Shopee/asset/css/main.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/Shopee/assets/fonts/base.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/Shopee/assets/fonts/main.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/F8-shop/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/F8-shop/assets/css/base.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/fullStack/F8-shop/assets/css/main.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/myWorld/Private/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/myWorld/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/myWorld/Private/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/myWorld/Private/example.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/myWorld/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/exercise/RWD_F/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/exercise/RWD_F/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/modal/binarySearch.js",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/vinfast/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/myWorld/example.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/w3.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/font-awesome.min.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/PWD/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/PWD/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/PWD/vd1.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/W3Schools_How_to/modal image/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/W3Schools_How_to/modal image/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/W3Schools_How_to/slide show/slideshow gallery/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/W3Schools_How_to/slide show/slideshow gallery/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/W3Schools_How_to/slide show/slideshowExtra/style.css",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/W3Schools_How_to/slide show/slideshowExtra/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/W3Schools_How_to/slide show/index.html",
+		"/C/Users/qq/OneDrive - Hanoi University of Science and Technology/Documents/tài lẻ/Lập trình/W3School/W3Schools_How_to/slide show/style.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,180 @@
+/*Mobile $ Tablet*/
+@media (max-width: 63.9375em) {
+    .hide-on-mobile-tablet {
+		display: none;
+	}
+
+	.header {
+		position: fixed;
+	    top: 0;
+	    z-index: 10;
+	    width: 100%;
+	}
+
+	.header__cart-list {
+		position: fixed;
+	    top: var(--header-height);
+	    right: 0px;
+	    width: 100%;
+	    padding: 0 calc((100% - 644px) / 2);
+	}
+
+	.header__cart-list::before {
+		display: none;
+	}
+
+	.app__content {
+		margin-top: calc(var(--header-height) + var(--header__sort-bar-height));
+	}
+
+	.header__sort-bar {
+		display: flex;
+	}
+
+	.mobile-category {
+		display: block;
+	}
+
+	.footer__payment-img img,
+	.footer__transpost-img img {
+		max-width: 50px;
+	}
+
+	.footer__bottom-item {
+		font-size: 1.2rem;
+		padding: 0 6px;
+	}
+
+	.header__cart {
+		width: unset;
+	}
+
+}
+
+/*Tablet*/
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+	:root {
+    	--header-height: 68px;
+		--navbar-height: 0px;
+    }
+
+	.hide-on-tablet {
+		display: none;
+	}
+
+	.header__logo {
+		width: unset;
+	}
+
+	.wide {
+        width: 720px;
+    }
+}
+
+/*Mobile*/
+@media (max-width: 46.1875em) {
+	:root {
+    	--header-height: 56px;
+		--navbar-height: 0px;
+    }
+
+	.hide-on-mobile {
+		display: none;
+	}
+
+	.header-with-search {
+		justify-content: space-between;
+	}
+
+	.header__logo,
+	.header__cart {
+		width: unset;
+	}
+
+	.header-with-search {
+		margin: 0 16px;
+	}
+
+	.header__mobile-search {
+		display: block;
+	}
+
+	.header__logo-link,
+	.header__logo {
+		line-height: 0;
+	}
+
+	.header__search {
+		display: none;
+		position: fixed;
+		top: var(--header-height);
+		left: 0;
+		width: 100%;
+		z-index: 1;
+		padding-right: 6px;
+	}
+
+	.header__search-history {
+		position: fixed;
+		top: calc(var(--header-height) + var(--header__sort-bar-height));
+		left: 0;
+		width: 100%;
+	}
+
+	.pagination-item {
+		margin: 0;
+	}
+
+	.pagination-item__link {
+		font-size: 1.6rem;
+		min-width: 36px;
+	}
+
+	.home-product {
+		margin-left: 4px;
+		margin-right: 4px;
+	}
+
+	.app__content {
+		padding-top: 8px;
+	}
+
+	.footer__heading {
+		text-align: center;
+	}
+
+	.footer-item {
+		padding-left: 36px;
+	}
+
+	.footer__payment-img {
+		padding-left: 12px;
+	}
+
+	.footer__app-wrap {
+		justify-content: center;
+	}
+
+	.header__cart-wrap {
+		padding-left: 0;
+	}
+	
+	.header__mobile-search {
+		margin-top: 12px;
+	}
+
+	.header__cart {
+		margin-top: 7px;
+	}
+
+	.footer__bottom-list {
+		flex-wrap: wrap;
+
+	}
+
+	.footer__bottom-item {
+		border: none;
+		margin-bottom: 8px;
+	}
+
+}
